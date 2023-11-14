@@ -7,8 +7,8 @@ Welcome to our Learning Management System (LMS) powered by Node.js! This platfor
 ## **Insights of the app:**
 **educator home page** ![Educator Home Page](/applicationimage/educator_home_page.png)
 **chapter list** ![Chapter List](/applicationimage/chapterlist.png)
-**page creating page** ![Page editor](/applicationimage/pagecreating.png)
-**course popularity page** ![Popularity](/applicationimage/popularity.png)
+**page creating page** ![Page editor](/applicationimage/page_creating.png)
+**course popularity page** ![Popularity](/applicationimage/poplarity.png)
 **Student home page** ![Student Home Page](/applicationimage/student_home_page.png)
 <br>
 
