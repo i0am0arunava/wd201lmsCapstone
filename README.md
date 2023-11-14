@@ -1,6 +1,7 @@
 # **Learning Management System**
 
-Welcome to Learning Management System (LMS) built using Node.js! This platform offers comprehensive features designed to enhance the learning experience. Users can seamlessly sign in, sign up, and sign out, ensuring a personalized journey throughout. Educators have the ability to create courses and access insightful reports to gauge student performance and course perfoormance. Students can effortlessly enroll in courses and conveniently track their progress, ensuring a good learning experience. Our search functionality simplifies course discovery, enabling users to find specific course with ease. Additionally, our platform prioritizes user security with features like forgot password and change password functionalities, ensuring a secure and customizable experience for all users.
+
+Welcome to our Learning Management System (LMS) powered by Node.js! This platform is designed to make learning easy and enjoyable. You can easily log in, sign up, and log out to have a personalized experience. Teachers can create courses and check reports to see how well students and courses are doing. Students can easily join courses and keep track of their progress. Our search function makes it simple to find the courses you're looking for. And, we make sure your information is safe with features like forgot password and change password options, giving everyone a secure and customizable experience.
 
 
 
