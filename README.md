@@ -12,6 +12,6 @@ Welcome to our Learning Management System (LMS) powered by Node.js! This platfor
 **Student home page** ![Student Home Page](/applicationimage/student_home_page.png)
 <br>
 
-
+## Link to the live application - <a href="https://edusworld.onrender.com/"> Edusworld </a>
 ## Start the server - 
 `nodemon index.js`  <br> `npm start` <br> `node index.js`
