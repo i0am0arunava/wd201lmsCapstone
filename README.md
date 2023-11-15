@@ -13,5 +13,6 @@ Welcome to our Learning Management System (LMS) powered by Node.js! This platfor
 <br>
 
 ## Link to the live application - <a href="https://edusworld.onrender.com/"> Edusworld </a>
+## Link to demo - <a href="https://drive.google.com/file/d/1kvzY90MpY6ENa8x_u03_u5IvCvYgReru/view?usp=drivesdk"> Working demo </a> 
 ## Start the server - 
 `nodemon index.js`  <br> `npm start` <br> `node index.js`
